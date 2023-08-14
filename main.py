@@ -3,4 +3,4 @@ import calculate
 
 print(calculate.x)
 
-print("yooo baby")
+print("yooo")
